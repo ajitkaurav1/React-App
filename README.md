@@ -1,21 +1,8 @@
 # React + Vite
 
-Pease run the blow commnad in the terminal using vs code.
-NPM Install or npm i
-npm run dev
-then Press h and then press enter key 
-then press O key and enter press key
-after that you see could see react will launch a url.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-The following features have been included in this project.
+Currently, two official plugins are available:
 
-1. Created a navigation bar to navigate other pages. 
-2. I utilized React Router Dom for navigation.
-3. I have used props to pass data from the parent component to the child component. 
-4. I use state and effect hooks.
-5. Added a drag and drop feature to manipulate the DOM.
-6. used the JSON Fake API to display the album and create a new one.
-
-In this component, handle the form with proper validation. Once the user enters the proper input, then they can submit the form.
-
-In this component, I have used usestate and useeffect hooks to obtain data from the fake API.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
