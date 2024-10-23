@@ -1,0 +1,4 @@
+1. Added package for drag and drop feature e.i npm install react-dnd react-dnd-html5-backend
+2. Added package for bootsrap.e.i react-router-dom
+3. Added  package for routing. upm i bootsrap
+4. added pacakge for icon npm install react-icons --save
